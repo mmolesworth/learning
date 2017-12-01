@@ -1,0 +1,5 @@
+SECRET_KEY = 'd1784237c278a7264dc28deea941777b529708283bfe9d9f7095e247152b72178c8f8059183b56ef660e153170a5ae905eb8bab005488fb0b88fffbf3751abce17504ed14be 4585e486aca72c2c811e8a8cdd9b98f53bcda694e541b57b601e3c0e30a8653eb3f1efd6aeb60d59906f4ee97aaaedd19196f1b3b250db837000a'
+
+DEBUG = False
+
+SQLALCHEMY_DATABASE_URI = 'postgresql://mobydock:nocturnalpupilbacteriaexplosion@postgres:5432/mobydock'

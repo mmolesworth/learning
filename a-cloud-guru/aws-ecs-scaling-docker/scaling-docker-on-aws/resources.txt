@@ -1,0 +1,18 @@
+
+                                                                                                                                           
+    "AccessKey": {                                                                                                                          
+        "UserName": "mmolesworth",                                                                                                          
+        "Status": "Active",                                                                                                                 
+        "CreateDate": "2017-10-26T18:53:38.018Z",                                                                                           
+        "SecretAccessKey": "y999sl6htAu+OItCjqUoh2tjfKJFLBuFYXQNstU7",                                                                      
+        "AccessKeyId": "AKIAJGTL22ER43ZQAS6A"                                                                                               
+    }
+
+
+Sign-in Link: https://mmolesworth.signin.aws.amazon.com/console
+
+Security Group ID: sg-4e7abcd8
+
+Instance ID: i-0eaa3a11f47cace4b
+
+Docker Repository: https://176749210898.dkr.ecr.us-east-1.amazonaws.com
